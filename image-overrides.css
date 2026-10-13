@@ -1,0 +1,8 @@
+/* Nigeria-focused Pexels photography. See IMAGE-SOURCES.md before production launch. */
+.hero-visual{background:#bddcc2 url('https://images.pexels.com/photos/28607934/pexels-photo-28607934.jpeg?auto=compress&cs=tinysrgb&w=1600') center/cover}
+.hero-visual:after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(16,56,40,.28),rgba(16,56,40,.02) 58%)}
+.sun,.hill{display:none}.grid-overlay{z-index:1;opacity:.45}.market-card{z-index:3}.floating-stat{z-index:4}
+.tomato .pool-art{background:#f5b7a0 url('https://images.pexels.com/photos/37126255/pexels-photo-37126255.jpeg?auto=compress&cs=tinysrgb&w=800') center/cover;color:transparent}
+.grain .pool-art{background:#e7d4a0 url('https://images.pexels.com/photos/30464887/pexels-photo-30464887.jpeg?auto=compress&cs=tinysrgb&w=800') center/cover;color:transparent}
+.greens .pool-art{background:#a5ceb3 url('https://images.pexels.com/photos/27814587/pexels-photo-27814587.jpeg?auto=compress&cs=tinysrgb&w=800') center/cover;color:transparent}
+.story-visual{background:#dbed77 url('https://images.pexels.com/photos/36874146/pexels-photo-36874146.jpeg?auto=compress&cs=tinysrgb&w=1200') center/cover}.story-visual:before{content:"";position:absolute;inset:0;background:rgba(16,56,40,.21)}
